@@ -5,7 +5,7 @@
 
 # Assessment and Evaluation of Gallica
 
-![la-BnF](logo.png = 250x250)
+![](logo.png)
 
 With over 1 million articles, hundreds of thousands of images and maps, manuscripts, books, and more, the database [Gallica](http://gallica.bnf.fr/) is a powerful research tool for students and scholars interested in France and French culture. Created in 1997 as the digital branch of France’s national library, *la Bibliothèque nationale de France*, it is a repository for digitized documents from la BnF and its institutional partners. Today, the website continues to host this searching service, but a recent reconfiguration in 2015 presents users and patrons with a bright, friendly interface that highlights recent additions to Gallica, showcases historians, pop culture bloggers, and others (dubbed *Gallicanautes*) who use the database for their work, and more. This resource is open access and free to the virtual public.
 
