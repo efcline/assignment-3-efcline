@@ -17,7 +17,7 @@ echo "Look! We converted a file!"
 ls
 
 # Convert markdown to DOCX, ODT
-read -p "DOCX and ODT are two types of files that may be opened in word processors. Let's see what we can do! Press enter to continue."
+read -p "DOCX and ODT are two types of files that may be opened in word processors. Let's try to convert to both! Press enter to continue."
 pandoc -o $FILE.docx $FILE && pandoc -o $FILE.odt $FILE
 echo "Here are your new files!"
 ls 
